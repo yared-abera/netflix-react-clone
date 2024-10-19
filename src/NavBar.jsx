@@ -8,7 +8,8 @@ function NavBar() {
        <img className='nav-logo'
        src={netflixLogo} alt="netflix" 
        />
-       <button className='button'>sign n</button> 
+        
+       <button className='button'>Sign In</button> 
        
   </div>
     </div>

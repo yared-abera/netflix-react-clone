@@ -1,8 +1,42 @@
 .homeSec1{
     text-align: center;
-    margin-top: 150px;
-    margin-bottom: 50px;
+    width: 50%;
+    margin: auto;
+    padding-top: 70px;
+     
 }
 .homeSec1 h1{
-    font-size: 50px;
+    font-size: 55px;
+    color: white;
 }
+
+.homeSec1 p{
+    font-size: 20px;
+    color: white;
+}
+.homeSec1 .p2{
+    font-size: 16px;
+    color: white;
+}
+
+.homeSec1 input{
+    height: 45px;
+    width: 400px;
+    border-radius: 5px;
+    border: 1px solid white;
+    font-size: 16px;
+    color: white;
+    background-color: transparent; 
+     
+} 
+
+.homeSec1 button{
+    height: 50px;
+    width: 200px;
+    border-radius: 5px;     
+    background-color: red; 
+    color: white;
+    border:none; 
+    margin-left: 10px;
+    font-size: 25px;
+}   

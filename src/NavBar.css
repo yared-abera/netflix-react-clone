@@ -3,7 +3,6 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-
     padding: 10px 20px;
     width: 80%;
     margin: auto;
@@ -11,7 +10,8 @@
  
 .nav_contents img{
     width: 100px; 
-     transform: scale(2.5); 
+     transform: scale(2.5);
+
 }
 
 .nav_contents button{
@@ -22,5 +22,6 @@
     margin: 20px;
     border: none;
     transform: scale(1.5);
+    
     
 }

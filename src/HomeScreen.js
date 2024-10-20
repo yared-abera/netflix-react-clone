@@ -8,6 +8,7 @@ function HomeScreen() {
       <div className='sec1'>
       <NavBar/>
       <HomeSec1/>
+      
       </div>
     </div>
   )
